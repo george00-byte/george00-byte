@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm George Odhiambo</h1>
+<h1 align="center">Hi 👋, I'm GEORGE ODHIAMBO</h1>
 <h3 align="center">Passionate Software developer and Data Scientist</h3>
 <img align= "right" width=400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsX_vT-io29znWMFNplLJnsdcJ6UiQKS2kg&usqp=CAU"><img>
 
