@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GEORGE ODHIAMBO</h1>
-<h3 align="center">Passionate Software developer and Data Scientist</h3>
+<h3 align="center">Passionate SOFTWARE DEVELOPER and DATA SCIENTIST</h3>
 <img align= "right" width=400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsX_vT-io29znWMFNplLJnsdcJ6UiQKS2kg&usqp=CAU"><img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=george00-byte&label=Profile%20views&color=0e75b6&style=flat" alt="george00-byte" /> </p>
